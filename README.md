@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Fils Munyawera
-## 🚀 Software Developer 
+## 🚀 Software Engineer 
 
 📧 Email: [munfils96@gmail.com](mailto:munfils96@gmail.com)  
 📞 Phone: +250 788 246 373
